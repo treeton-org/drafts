@@ -1,5 +1,7 @@
 # Drafts
 
+![cover.png](docs/cover.png)
+
 A place where you can add any idea for Tree TON
 
 ## How to add idea
